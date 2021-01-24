@@ -122,8 +122,6 @@ public class Dec22 {
             }
         }
 
-        System.out.println("yoyoyo");
-
         return "";
     }
 }
